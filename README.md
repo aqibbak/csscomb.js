@@ -79,7 +79,6 @@ Also you can become a mantainer. To do that please ping
 [@tonyganch](https://github.com/tonyganch)
 
 Thanks for assistance and contributions:
-
 [@miripiruni](https://github.com/miripiruni),
 [@anton-rudeshko](https://github.com/anton-rudeshko),
 [@cvrebert](https://github.com/cvrebert),
